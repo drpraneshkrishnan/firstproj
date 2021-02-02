@@ -1,5 +1,6 @@
 <!--[![Pranesh Krishnan](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://join.slack.com/t/labforml/shared_invite/zt-egj9zvq9-Dl3hhZqobexgT7aVKnD14g/)-->
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Pranesh Krishnan](https://www.linkedin.com/in/dr-pranesh-krishnan)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) Pranesh's GitHub](https://github.com/drpraneshkrishnan)
 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/labmlai?style=social)](https://twitter.com/labmlai)-->
 
@@ -78,10 +79,10 @@ pip install labml_nn
 If you use LabML for academic research, please cite the library using the following BibTeX entry.
 
 ```bibtex
-@misc{labml,
- author = {Varuna Jayasiri, Nipun Wijerathne},
+@misc{skymind edu group,
+ author = {Pranesh Krishnan},
  title = {LabML: A library to organize machine learning experiments},
- year = {2020},
+ year = {2021},
  url = {https://lab-ml.com/},
 }
 ```
